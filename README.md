@@ -159,7 +159,7 @@ The analysis helps Airbnb understand pricing behavior and supports better **pric
 
 ## Author
 
-###**Ramakrushna Nayak**
+###Ramakrushna Nayak
 
 ####Aspiring Data Analyst
 
