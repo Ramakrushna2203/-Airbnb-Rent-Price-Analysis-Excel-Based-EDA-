@@ -144,6 +144,7 @@ This results in decimal bathroom values in real estate listings.
   * Data Cleaning
   * Pivot Tables
   * Descriptive Statistics
+  * Dashboard creation
   * Exploratory Data Analysis
 
 ---
@@ -157,6 +158,6 @@ The analysis helps Airbnb understand pricing behavior and supports better **pric
 
 ## Author
 
-**Ramakrushna Nayak**
-Aspiring Data Analyst
-Excel | SQL | Power BI | Data Analysis
+###**Ramakrushna Nayak**
+####Aspiring Data Analyst
+###Excel | SQL | Power BI | Data Analysis
