@@ -77,6 +77,7 @@ The dataset contains information about different types of rental rooms offered b
   * Categorical variables → **Mode**
   * Continuous variables → **Mean / Median**
 * Converted `log_price` to actual price using **EXP function**
+* converted Bollean value to `Yes/No`
 
 ---
 
@@ -159,5 +160,7 @@ The analysis helps Airbnb understand pricing behavior and supports better **pric
 ## Author
 
 ###**Ramakrushna Nayak**
+
 ####Aspiring Data Analyst
+
 ###Excel | SQL | Power BI | Data Analysis
