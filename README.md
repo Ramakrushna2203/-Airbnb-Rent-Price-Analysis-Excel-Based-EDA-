@@ -159,8 +159,8 @@ The analysis helps Airbnb understand pricing behavior and supports better **pric
 
 ## Author
 
-###Ramakrushna Nayak
+### Ramakrushna Nayak
 
-####Aspiring Data Analyst
+#### Aspiring Data Analyst
 
-###Excel | SQL | Power BI | Data Analysis
+#### Excel | SQL | Power BI | Data Analysis
